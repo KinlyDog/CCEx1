@@ -1,0 +1,42 @@
+sum - allMotoDistanceKm
+// одометр, пройденное расстояние мотоцикла в километрах
+
+day - battlefieldDay
+// количество дней битвы
+
+ylen - battlefieldLength
+// длина поля битвы
+
+xlen - battlefieldWidth
+// ширина поля битвы
+
+ma - listPhoneNumbers
+// список телефонных номеров
+
+salFin - orderedListSalaries
+// упорядоченный список зарплат
+
+idsTmp - listEmployeesIdTemp
+// временный список индивидуальных номеров сотрудников (id)
+
+ret - sumAllNumbersInList
+// сумма всех чисел в списке
+
+bld - stringNoSpacesBuilder
+// "строитель" строки без пробелов (StringBuilder)
+
+matrix - matrixRabbitDecoder
+// массив "кроличьего" декодера
+
+table - tableAscii
+// таблица ASCII
+
+rezult - votingResult
+// результат голосования
+
+colour - TrafficLightColor
+// цвет светофора
+
+difStr - mapLengthDifference
+// разница длины карты
+

@@ -34,7 +34,7 @@ table - tableAscii
 rezult - votingResult
 // результат голосования
 
-color - TrafficLightColor
+color - trafficLightColor
 // цвет светофора
 
 difStr - mapLengthDifference
